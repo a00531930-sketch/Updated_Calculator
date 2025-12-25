@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(195, 241, 163);
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: rgb(230, 190, 161);
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.btn2{
+    width: 60px;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: rgb(226, 85, 85);
+    color: white;
+
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.button_body{
+    background-color: aqua;
+    text-align: center;
+    width: 25%;
+    height: 60vh;
+    margin-left: 35%;
+}
+#res{
+    width: 24.3%;
+    height: 10vh;
+    text-align: right;
+    margin-left: 35%;
+    font-size: 20px;
+
+}
+#cal{
+    background-color: rgb(2, 70, 70);
+    width: 25%;
+    text-align: center;
+    margin-left: 35%;
+    height: 10vh;
+    color: white;
+    
+}
