@@ -37,11 +37,129 @@ body{
 
 }
 #cal{
-    background-color: rgb(2, 70, 70);
     width: 25%;
     text-align: center;
     margin-left: 35%;
     height: 10vh;
-    color: white;
     
+}
+@media screen and (max-width: 1260px) {
+    #cal{
+        font-size: 30px;
+    }
+    .button_body{
+    background-color: aqua;
+    text-align: center;
+    width: 19.5%;
+    height: 133vh;
+    margin-left: 35%;
+    }
+    .btn2{
+    width: 50px;
+    height: 50px;
+    font-size: 23px;
+    }
+}
+@media screen and (max-width: 1180px) {
+    #cal{
+        font-size: 28px;
+    }
+
+}
+@media screen and (max-width: 1102px) {
+    .button_body{
+        width: 22%;
+        height: 150vh;
+    }
+    .btn2{
+    width: 55px;
+    height: 55px;
+    font-size: 27px;
+    }
+
+
+    #res{
+    width: 21.2%;
+    height: 10vh;}
+
+    .btn{
+    width: 55px;
+    height: 55px;
+    font-size: 27px;
+    }
+    #cal{
+    width: 25%;
+    text-align: center;
+    margin-left: 33.5%;
+    height: 10vh;
+    font-size: 25px;
+    }
+}
+@media screen and (max-width: 1090px) {
+    .button_body{
+        width: 20%;
+        height: 140vh;
+    }
+    .btn2{
+    width: 45px;
+    height: 45px;
+    font-size: 21px;
+    }
+
+    
+    #res{
+    width: 19%;
+    height: 10vh;}
+
+    .btn{
+    width: 45px;
+    height: 45px;
+    font-size: 21px;
+    }
+    #cal{
+    width: 19%;
+    text-align: center;
+    margin-left: 35%;
+    height: 10vh;
+    font-size: 20px;
+    }
+}
+@media screen and (max-width: 1042px) {
+    #cal{
+    width: 20%;
+    text-align: center;
+    margin-left: 35%;
+    height: 8vh;
+    font-size: 18px;
+    }
+    
+}
+@media screen and (max-width: 1000px) {
+    .button_body{
+        width: 17%;
+        height: 140vh;
+    }
+    .btn2{
+    width: 45px;
+    height: 45px;
+    font-size: 21px;
+    }
+
+    
+    #res{
+    width: 19%;
+    height: 10vh;}
+
+    .btn{
+    width: 45px;
+    height: 45px;
+    font-size: 21px;
+    }
+    #cal{
+    width: 19%;
+    text-align: center;
+    margin-left: 35%;
+    height: 10vh;
+    font-size: 20px;
+    }
 }
